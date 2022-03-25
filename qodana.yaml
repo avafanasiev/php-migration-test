@@ -3,3 +3,4 @@ script:
   parameters:
     fromLevel: 7.1
     toLevel: 8.0
+bootstrap: "echo =============================================="
